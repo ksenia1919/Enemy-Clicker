@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2d5b0891454e26e4d86ce3985b4615ec
+  m_SerializeEntries:
+  - m_GUID: 5d3d0422e42ed3b42b441138467ac2b2
+    m_Address: Assets/Sprites/up_menu/Enchanted sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b46872c091764bf4791eca68d392fdd6
+    m_Address: Assets/Sprites/up_menu/Dagger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16a8466443cc328408223bf7f074fa33
+    m_Address: Assets/Sprites/up_menu/Hammer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a2f024f7bde5547a77b356610b8974
+    m_Address: Assets/Sprites/up_menu/Blades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc2b1c69d8096b047b08873175f21387
+    m_Address: Assets/Sprites/up_menu/Hatchet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af260aba740991c4cbd09ee2b8cb2f94
+    m_Address: Assets/Sprites/up_menu/button_buy_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a762c331f592bc04ebfed4cba3ebd519
+    m_Address: Assets/Sprites/up_menu/button_buy_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28072f5d1b4dcc34dbd74bfd75293d92
+    m_Address: Assets/Sprites/up_menu/button_buy_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be487c1706062324f9590ee03bfb1609
+    m_Address: Assets/Sprites/Locations_enemy/boss_swamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f63c0b09cc1032b42acc8c77173508e5
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_forest_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5e4d40ef9d0b7d49969d0b81e97a339
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_swamp_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68a8f0cba602519469f11a4cc7ae3e5a
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_swamp_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ff6caf0364e4784597e9752e0189cf6
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_swamp_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52d568d91d1655c45ab640ca5291c9c0
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_forest_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab719b5c19f5bcf439236f4409fbe48f
+    m_Address: Assets/Sprites/Locations_enemy/boss_forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8908aa83617434d4d9d7430e114c9658
+    m_Address: Assets/Sprites/Locations_enemy/location_forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4bfe3e5dedb01f4b9658ba88004cd1b
+    m_Address: Assets/Sprites/Locations_enemy/location_swamp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ee9a76d97c29344cad216732e259b8c
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_forest_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d462d40ffbba4a248a0bfd46dd4460d5
+    m_Address: Assets/Sprites/setings_menu/setings_icon_voulme_on.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7604d30798d24fa4cbd92b02f87c04cc
+    m_Address: Assets/Sprites/setings_menu/setings_icon_voulme_V_on.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73fe2d3624a36b54695d97152b1e3553
+    m_Address: Assets/Sprites/setings_menu/setings_icon_voulme_off.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6afb994c666bdf4088ea244e33e5825
+    m_Address: Assets/Sprites/setings_menu/setings_icon_voulme_V_off.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9844f469a8ab2a469b140063cbe9a9f
+    m_Address: Assets/Sprites/maps/road_map_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05eb7b1ecd851104a91f35f512a458d2
+    m_Address: Assets/Sprites/maps/road_map.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a665e5778b3d6448c0983bc0bbc8f2
+    m_Address: Assets/Sprites/maps/road_map_5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0b04aeeda4715b4e972b42edd79832e
+    m_Address: Assets/Sprites/maps/road_map_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1bee19f4afaa7e4cbe6764dfb1fdd31
+    m_Address: Assets/Sprites/maps/road_map_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c35c086b5aba8e4da528d2edc8ef9e1
+    m_Address: Assets/Sprites/maps/road_map_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a7573b0cc93ad2409ab2a4bab51b094
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_hell_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ac80c675e8d80a42992289b1fc78aec
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_hell_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 815745ba73243b74f8b39961336a2f15
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_hell_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18bde1cb389209e4394101d29baff9a9
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_cave_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 857e44a51f3bc0c4e995895330369587
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_cave_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcd787958f5928e47a1355eb01325745
+    m_Address: Assets/Sprites/Locations_enemy/Enemi_cave_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7028e675fb5aa44468763393cb6e984d
+    m_Address: Assets/Sprites/Locations_enemy/boss_hell.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97eed7717b9ece04f80eeede74df9b06
+    m_Address: Assets/Sprites/Locations_enemy/boss_cave.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62e8f32ef4fa43c4c926826192ab8fe7
+    m_Address: Assets/Sprites/Locations_enemy/location_cave.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e63305a5fc3ec345adf2cbe7685fddf
+    m_Address: Assets/Sprites/Locations_enemy/location_hell.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 951ecd1ed67a5044ab180a365362aa79, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8e6ef207624a3594a93ca83d56414fd1, type: 2}
+    - {fileID: 11400000, guid: 9ad2d0f3456b7bc4f9586cf06eea2eb8, type: 2}
